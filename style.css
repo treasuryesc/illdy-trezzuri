@@ -12,25 +12,6 @@ Text Domain: illdy-trezzuri
 Template: illdy
 */
 
-
-
-/*
-@media screen and (max-width: 990px) {
-	p {
-		margin-bottom: 20px;
-	}
-
-	.entry-header-image {
-		padding-bottom: 40px;
-	}
-
-	.subtitle-text {
-		width: 100%;
-	}
-
-	.subtitle-image {
-		width: 100%;
-		padding-top: 10px;
-	}
+.blog-post-image {
+	max-width: 75%;
 }
-*/
